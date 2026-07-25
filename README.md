@@ -102,17 +102,20 @@ If the question is unrelated to Electrical Engineering, politely inform the user
 
 ---
 
-# 📸 Screenshots
+# 📸 Screenshots <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/4ca23630-9c2b-4ba3-95d0-ae6d2295ea03" />
+
 
 ## Home Page
 
-(Add Screenshot Here)
+(Add Screenshot Here) <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/18b2f09a-b139-4791-8453-91092fd5a9e9" />
+
 
 ---
 
 ## AI Response
 
-(Add Screenshot Here)
+(Add Screenshot Here)<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/e607d312-e421-4a33-a747-0b82f6e4b205" />
+
 
 ---
 
