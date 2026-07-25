@@ -1,0 +1,6 @@
+{
+  "name": "ElectraCoach AI ⚡ Pakistan",
+  "description": "Pakistan's AI-powered electricity bill calculator, DISCO tariff optimizer, solar net metering sizing guide, and smart appliance energy coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
