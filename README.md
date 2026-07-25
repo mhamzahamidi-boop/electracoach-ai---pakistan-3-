@@ -28,11 +28,11 @@ ElectraCoach AI solves this problem by providing an AI interview assistant that 
 
 ## Live Website
 
-https://YOUR-VERCEL-LINK.vercel.app
+https://ai.studio/apps/b63cea5c-bf0b-4333-a76e-6e84342f40cc
 
 *(Replace this with your deployed Vercel URL.)*
 
----
+---https://electracoach-ai-pakistan-3.vercel.app/
 
 # ✨ Features
 
