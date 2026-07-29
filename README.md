@@ -1,32 +1,36 @@
 # ⚡ ElectraCoach AI – Pakistan
 
-## 🚀 AI Powered Electrical Engineering Interview Coach & Pakistan Electricity Tools
+## AI-Powered Electrical Engineering Interview Coach & Pakistan Electricity Assistant
 
-ElectraCoach AI is an AI-powered web application that helps Electrical Engineering students, fresh graduates, and electricity consumers.
+ElectraCoach AI is an AI-powered web application designed to help Electrical Engineering students, fresh graduates, and electricity consumers in Pakistan.
 
-It provides Electrical Engineering interview coaching using Google Gemini AI and also includes Pakistan electricity tools such as Bill Calculator, AI Bill Scanner, and Solar Net Metering Calculator.
+The application combines Google Gemini AI with practical electricity tools to help users prepare for technical interviews, calculate electricity bills, estimate solar savings, scan electricity bills, and analyze appliance energy consumption.
 
 ---
 
-# 🌐 Live Demo
+# 🌍 Live Application
 
-**Vercel:**
+### 🚀 Live Demo
+
 https://electracoach-ai-pakistan-3.vercel.app/
 
-**GitHub Repository:**
+### 💻 GitHub Repository
+
 https://github.com/mhamzahamidi-boop/electracoach-ai---pakistan-3-
 
 ---
 
-# 🎯 Problem Statement
+# 📌 Problem Statement
 
-Electrical Engineering students often struggle to prepare for technical interviews, while electricity consumers find it difficult to understand electricity bills and estimate solar savings.
+Electrical Engineering students often struggle to prepare for technical interviews because they lack personalized guidance and technical practice.
 
-ElectraCoach AI solves both problems using Google Gemini AI.
+Similarly, electricity consumers in Pakistan face difficulties understanding electricity bills, estimating monthly costs, and calculating the benefits of solar net metering.
+
+ElectraCoach AI solves these challenges by combining Artificial Intelligence with practical electricity tools in one easy-to-use web application.
 
 ---
 
-# 👥 Target Users
+# 🎯 Target Users
 
 - Electrical Engineering Students
 - Fresh Graduates
@@ -39,31 +43,47 @@ ElectraCoach AI solves both problems using Google Gemini AI.
 # ✨ Features
 
 - 🤖 AI Electrical Engineering Interview Coach
-- 💬 Google Gemini AI Responses
+- 💬 Google Gemini AI Assistant
 - ⚡ Pakistan Electricity Bill Calculator
-- 📷 AI Bill Scanner (Gemini Vision)
+- 📷 AI Electricity Bill Scanner
 - ☀ Solar Net Metering Calculator
-- 📈 Appliance Wattage Audit
-- 📉 Load Shedding & Tariff Information
-- 📱 Responsive Design
-- 🌐 Fast Web Application
+- 🔌 Appliance Energy Audit
+- 📊 Electricity Usage Analysis
+- ⚡ Load Shedding Information
+- 📱 Fully Responsive Design
+- 🚀 Fast and Modern User Interface
 
 ---
 
-# 🤖 AI System Prompt
+# 🤖 AI Feature
 
+ElectraCoach AI uses **Google Gemini 2.5 Flash** to provide intelligent Electrical Engineering interview preparation.
+
+The AI can:
+
+- Ask Electrical Engineering interview questions
+- Explain technical concepts
+- Evaluate user responses
+- Provide interview guidance
+- Suggest improvements
+- Give practical examples
+
+### AI System Prompt
+
+```
 You are an expert Electrical Engineering Interview Coach.
 
 Answer only Electrical Engineering interview questions.
 
 Provide:
 
-- Clear explanation
-- Technical concepts
-- Practical examples
-- Interview tips
+• Clear explanations
+• Technical concepts
+• Practical examples
+• Interview tips
 
 If the question is unrelated to Electrical Engineering, politely inform the user that this application only supports Electrical Engineering interview preparation.
+```
 
 ---
 
@@ -71,81 +91,90 @@ If the question is unrelated to Electrical Engineering, politely inform the user
 
 ## Frontend
 
-- Next.js
 - React
 - TypeScript
+- Vite
 - Tailwind CSS
 
-## Backend
-
-- Next.js API Routes
-
-## AI
+## Artificial Intelligence
 
 - Google Gemini API
 - Gemini 2.5 Flash
+
+## Development Tools
+
+- Google AI Studio
+- Visual Studio Code
+- GitHub
 
 ## Deployment
 
 - Vercel
 
-## Tools
-
-- GitHub
-- VS Code
-
 ---
 
 # 📸 Screenshots
 
-## Home Page
+## 🏠 Home Page
 
-![Home](  
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/01f72d1d-89d8-4d09-9994-9844efc2e587" />
-
----
-
-## Bill Calculator
-
-![<img     width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/7b665f4f-90ed-48cd-8b37-1bdafc46a229" />
-)
-
+()
 
 ---
 
-## AI Bill Scanner
+## 🤖 AI Interview Coach
 
-![AI Bill Scanner](  <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/821eab62-e31e-477d-9c70-d23c12572e14" />
+(Add your screenshot here)
 
+---
+
+## ⚡ Electricity Bill Calculator
+
+(<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/9d1256f9-ec16-4f6d-ae45-cdfd030a7fb7" />
 )
 
 ---
 
-## Gemini AI Response
+## ☀ Solar Calculator
 
-![Gemini AI Response](screenshots/ai-response.png)
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/6176147e-f416-470a-8769-74754965d9b4" />
+
 
 ---
 
-# ⚙ Installation
+## 📷 AI Bill Scanner
+
+(<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/5c635a6d-ff41-4610-bf50-d351120779b1" />
+)
+
+---
+
+# ⚙️ Installation
+
+Clone the repository
 
 ```bash
 git clone https://github.com/mhamzahamidi-boop/electracoach-ai---pakistan-3-.git
+```
 
+Open the project
+
+```bash
 cd electracoach-ai---pakistan-3-
+```
 
+Install dependencies
+
+```bash
 npm install
+```
 
+Run the development server
+
+```bash
 npm run dev
 ```
 
-Create `.env.local`
-
-```
-GOOGLE_API_KEY=YOUR_API_KEY
-```
-
-Open:
+Open your browser
 
 ```
 http://localhost:3000
@@ -153,50 +182,58 @@ http://localhost:3000
 
 ---
 
-# 📂 Project Structure
+# 📁 Project Structure
 
 ```
 src/
-
-server.ts
-
-package.json
-
-README.md
+│
+├── components/
+├── assets/
+├── data/
+├── App.tsx
+├── main.tsx
+├── server.ts
+├── package.json
+├── vite.config.ts
+└── README.md
 ```
 
 ---
 
-# 📌 Future Improvements
+# 🚀 Future Improvements
 
 - Voice Interview Mode
-- Mock Interview
-- User Login
+- Mock Interview Sessions
+- User Authentication
 - Interview History
-- PDF Reports
-- Dark Mode
+- PDF Report Generation
+- AI Performance Analytics
+- Multi-language Support
 
 ---
 
-# 👨‍💻 Author
+# 👨‍💻 Developer
 
 **Muhammad Hamza**
 
 B.Tech (Hons) Electrical Engineering
+
+Pakistan
 
 ---
 
 # 🙏 Acknowledgements
 
 - Google Gemini AI
-- Next.js
+- Google AI Studio
 - React
+- Vite
 - Tailwind CSS
-- Vercel
 - GitHub
+- Vercel
 
 ---
 
 # 📜 License
 
-Developed for educational purposes as the ACT AI Final Project.
+This project was developed for educational purposes as part of the ACT AI Final Project.
