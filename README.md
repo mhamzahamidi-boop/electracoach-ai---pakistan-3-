@@ -113,17 +113,20 @@ If the question is unrelated to Electrical Engineering, politely inform the user
 
 ---
 
-# 📸 Screenshots
+# 📸 Screenshots <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/b726ae72-2df8-4b8f-a207-fe3f21aee0e8" />
+
 
 ## 🏠 Home Page
 
-()
+()<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/bd03dd25-df14-48cf-9316-4f72ddd9fc4c" />
+
 
 ---
 
 ## 🤖 AI Interview Coach
 
-(Add your screenshot here)
+(<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/dbce1e77-05e2-4a69-8a19-75c2750af9f6" />
+)
 
 ---
 
