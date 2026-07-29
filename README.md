@@ -100,8 +100,8 @@ If the question is unrelated to Electrical Engineering, politely inform the user
 
 ## Home Page
 
-![Home](<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/378f76a0-a6e0-4485-8436-1f50dd29c391" />
-)
+![Home](  
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/01f72d1d-89d8-4d09-9994-9844efc2e587" />
 
 ---
 
