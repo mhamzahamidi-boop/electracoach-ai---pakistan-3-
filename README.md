@@ -107,8 +107,9 @@ If the question is unrelated to Electrical Engineering, politely inform the user
 
 ## Bill Calculator
 
-![<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/7b665f4f-90ed-48cd-8b37-1bdafc46a229" />
+![<img     width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/7b665f4f-90ed-48cd-8b37-1bdafc46a229" />
 )
+
 
 ---
 
