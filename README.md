@@ -114,7 +114,8 @@ If the question is unrelated to Electrical Engineering, politely inform the user
 
 ## AI Bill Scanner
 
-![AI Bill Scanner](<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/90bb1bff-5eb9-4fcb-b132-d51c55c31369" />
+![AI Bill Scanner](  <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/821eab62-e31e-477d-9c70-d23c12572e14" />
+
 )
 
 ---
