@@ -29,6 +29,7 @@ ElectraCoach AI solves this problem by providing an AI interview assistant that 
 ## Live Website
 
 https://ai.studio/apps/b63cea5c-bf0b-4333-a76e-6e84342f40cc
+https://github.com/mhamzahamidi-boop/electracoach-ai---pakistan-3-
 
 *(Replace this with your deployed Vercel URL.)*
 
@@ -107,27 +108,16 @@ If the question is unrelated to Electrical Engineering, politely inform the user
 
 ## Home Page
 
-(Add Screenshot Here) <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/18b2f09a-b139-4791-8453-91092fd5a9e9" />
+() <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/18b2f09a-b139-4791-8453-91092fd5a9e9" />
 
 
 ---
 
 ## AI Response
-
-(Add Screenshot Here)<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/e607d312-e421-4a33-a747-0b82f6e4b205" />
-
-
----
-
-## Mobile View
-
-(Add Screenshot Here)
-
----
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/e607d312-e421-4a33-a747-0b82f6e4b205" />
 
 ## Interview Question Example
 
-(Add Screenshot Here)
 
 ---
 
